@@ -1,0 +1,137 @@
+[ 
+    
+    { 
+        "Mineral": "Oro",  
+        "Fórmula Química": "Au", 
+        "Hábito": "Laminar Dentrítico Filiforme", 
+        "Exofiación": "No Presenta", 
+        "Fractura": "Astillosa", 
+        "Tenacidad": "Maleable, Dúctil, Séctil", 
+        "Peso Especíco": "19,3", 
+        "Color": "Amarillo", 
+        "Brillo": "Metálico", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "2,5 - 3", 
+        "Raya":"Amarilla" 
+    }, 
+
+
+    
+    { 
+
+        "Mineral": "Plata",  
+        "Fórmula Química": "Ag", 
+        "Hábito": "Dentrítico", 
+        "Exofiación": "No Presenta", 
+        "Fractura": "Astillosa", 
+        "Tenacidad": "Dúctil, Maleable", 
+        "Peso Especíco": "10 - 11", 
+        "Color": "Blanco, Gris a negro", 
+        "Brillo": "Metálico", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "2,5 - 3", 
+        "Raya":"Blanca de Plata" 
+
+
+    }, 
+
+    { 
+        "Mineral": "Cobre",  
+        "Fórmula Química": "Cu", 
+        "Hábito": "Masas filiformes, Dentríticas, Cristal Cúbico", 
+        "Exofiación": "No Presenta", 
+        "Fractura": "Astillosa", 
+        "Tenacidad": "Dúctil, Maleable", 
+        "Peso Especíco": "8,9", 
+        "Color": "Azul, Verde, Rosado", 
+        "Brillo": "Metálico", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "2,5 - 3", 
+        "Raya":"Roja Brillante" 
+
+
+    }, 
+
+
+
+    { 
+        "Mineral": "Mercurio",  
+        "Fórmula Química": "Hg", 
+        "Hábito": "Amalgamdo", 
+        "Exofiación": "---", 
+        "Fractura": "---", 
+        "Tenacidad": "---", 
+        "Peso Especíco": "13,6", 
+        "Color": "Blanco estaño", 
+        "Brillo": "Metálico", 
+        "Diafanidad": "---", 
+        "Dureza": "Líquido", 
+        "Raya":"---" 
+
+
+    }, 
+
+    { 
+        "Mineral": "Fierro",  
+        "Fórmula Química": "Fe", 
+        "Hábito": "Cúbico, en nódulo y masas", 
+        "Exofiación": "Cúbico imperfecta", 
+        "Fractura": "Astillosa", 
+        "Tenacidad": "Maleable", 
+        "Peso Especíco": "7,3 - 7,9", 
+        "Color": "Gris acero, negro", 
+        "Brillo": "Metálico", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "4,5", 
+        "Raya":"Negra" 
+
+    }, 
+
+    { 
+        "Mineral": "Azufre",  
+        "Fórmula Química": "S", 
+        "Hábito": "Masa irregular bipiramidal", 
+        "Exofiación": "---", 
+        "Fractura": "Concoidal irregular", 
+        "Tenacidad": "Frágil", 
+        "Peso Especíco": "2,07", 
+        "Color": "Amarillo", 
+        "Brillo": "Resinoso", 
+        "Diafanidad": "Transparente", 
+        "Dureza": "1,5 - 2,5", 
+        "Raya":"Blanca" 
+    }, 
+
+    { 
+        "Mineral": "Grafito",  
+        "Fórmula Química": "C", 
+        "Hábito": "Cristales tabulares", 
+        "Exofiación": "Perfecta", 
+        "Fractura": "Irregular", 
+        "Tenacidad": "Flexible", 
+        "Peso Especíco": "2,2", 
+        "Color": "Negro a gris", 
+        "Brillo": "Metálico a graso" , 
+        "Diafanidad": "Opaco", 
+        "Dureza": "1- 2", 
+        "Raya":"Negra" 
+    }, 
+    
+    { 
+        "Mineral": "Diamante",  
+        "Fórmula Química": "C", 
+        "Hábito": "Cúbico tetraédrico", 
+        "Exofiación": "Perfecta", 
+        "Fractura": "Concoidal", 
+        "Tenacidad": "Frágil", 
+        "Peso Especíco": "3,5", 
+        "Color": "Incoloro", 
+        "Brillo": "Adiamantado", 
+        "Diafanidad": "Transparente", 
+        "Dureza": "10", 
+        "Raya":"Blanca" 
+
+    }
+
+
+]

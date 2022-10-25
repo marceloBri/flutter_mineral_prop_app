@@ -1,0 +1,102 @@
+[ 
+
+{ 
+    "Mineral": "Anhidrita",  
+    "Fórmula Química": "CaSO4", 
+    "Hábito": "Rombico bipiramidal", 
+    "Exofiación": "Clara paralela", 
+    "Fractura": "Irregular", 
+    "Tenacidad": "Frágil", 
+    "Peso Especíco": "2,89 - 2,98", 
+    "Color": "Blanco", 
+    "Brillo": "Vítreo perlado", 
+    "Diafanidad": "Traslúcido", 
+    "Dureza": "3 - 3,5", 
+    "Raya":"Blanca grisásea" 
+}, 
+
+{ 
+    "Mineral": "Yeso",  
+    "Fórmula Química": "CaSO4 H2O", 
+    "Hábito": "Prismático", 
+    "Exofiación": "Perfecta", 
+    "Fractura": "Fifrosa", 
+    "Tenacidad": "Frágil", 
+    "Peso Especíco": "2,32", 
+    "Color": "Incoloro", 
+    "Brillo": "Vítero perlado y sedoso", 
+    "Diafanidad": "Trasparente y translúcido", 
+    "Dureza": "2", 
+    "Raya":"Blanca" 
+}, 
+{ 
+    "Mineral": "Baritina",  
+    "Fórmula Química": "BaSO4", 
+    "Hábito": "Rombico bipiramidal, láminas gruesas", 
+    "Exofiación": "Perfecta", 
+    "Fractura": "Irregular", 
+    "Tenacidad": "Frágil", 
+    "Peso Especíco": "4,5", 
+    "Color": "Incoloro", 
+    "Brillo": "Vítreo", 
+    "Diafanidad": "Traslúcido a transparente", 
+    "Dureza": "3 - 3,5", 
+    "Raya":"Blanca" 
+}, 
+{ 
+    "Mineral": "Alunita",  
+    "Fórmula Química": "(SO4)2 KAl3 (OH)6", 
+    "Hábito": "Hexagonal piramidal, en masa", 
+    "Exofiación": "Imperfecta", 
+    "Fractura": "Irregular", 
+    "Tenacidad": "Frágil", 
+    "Peso Especíco": "2 - 2,6", 
+    "Color": "Blanco", 
+    "Brillo": "Vítreo", 
+    "Diafanidad": "Traslúcido a transparente", 
+    "Dureza": "4", 
+    "Raya":"Blanca" 
+}, 
+{ 
+    "Mineral": "Chalcantita",  
+    "Fórmula Química": "CuSO4 - 2H2O", 
+    "Hábito": "Triclínico pinacoidal, macizo, estalactico, reniforme", 
+    "Exofiación": "Imperfecta", 
+    "Fractura": "Concoidea", 
+    "Tenacidad": "Frágil", 
+    "Peso Especíco": "2,12 - 2,3", 
+    "Color": "Azul marino", 
+    "Brillo": "Vítreo", 
+    "Diafanidad": "Traslúcido a transparente", 
+    "Dureza": "2,5", 
+    "Raya":"Incolora" 
+}, 
+{ 
+    "Mineral": "Brochantita",  
+    "Fórmula Química": "CuSO4(OH)6", 
+    "Hábito": "Prismático, acicular, costras", 
+    "Exofiación": "Perfecta", 
+    "Fractura": "Irregular", 
+    "Tenacidad": "Frágil", 
+    "Peso Especíco": "3,9", 
+    "Color": "Verde esmeralda", 
+    "Brillo": "Vítreo a perlado", 
+    "Diafanidad": "Trasparente a translúcido", 
+    "Dureza": "3,5 - 4", 
+    "Raya":"Verde pálido" 
+}, 
+{ 
+    "Mineral": "Jarosita",  
+    "Fórmula Química": "(SO4)2KFe3(OH)6", 
+    "Hábito": "Romboédrica fibrosa", 
+    "Exofiación": "I---", 
+    "Fractura": "Irregular a quebradiza", 
+    "Tenacidad": "Frágil", 
+    "Peso Especíco": "3,15", 
+    "Color": "Amarillo Ocre", 
+    "Brillo": "Vítreo sub adiamantino", 
+    "Diafanidad": "Translúcido a opaco", 
+    "Dureza": "2,5 - 3", 
+    "Raya":"Amarilla resplandeciente" 
+}
+]

@@ -1,0 +1,34 @@
+[ 
+
+{ 
+    "Mineral": "Yeso",  
+    "Fórmula Química": "SO4CaH2O", 
+    "Hábito": "Prismático", 
+    "Exofiación": "Perfecta", 
+    "Fractura": "Fibrosa", 
+    "Tenacidad": "Frágil", 
+    "Peso Especíco": "2,32", 
+    "Color": "Incoloro", 
+    "Brillo": "Vítreo perlado", 
+    "Diafanidad": "Translúcido y transparente", 
+    "Dureza": "2", 
+    "Raya":"Blanca"    
+}, 
+
+{ 
+    "Mineral": "Calcita",  
+    "Fórmula Química": "CaCO3", 
+    "Hábito": "Hexagonal romboédrico", 
+    "Exofiación": "Perfecta", 
+    "Fractura": "Concoidal", 
+    "Tenacidad": "Frágil", 
+    "Peso Especíco": "2,7", 
+    "Color": "Blanco a incoloro", 
+    "Brillo": "Vítreo", 
+    "Diafanidad": "Translúcido y transparente", 
+    "Dureza": "3", 
+    "Raya":"Blanca"   
+
+}
+    
+]

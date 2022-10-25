@@ -1,0 +1,30 @@
+[ 
+{ 
+    "Mineral": "Apatito",  
+    "Fórmula Química": "(PO4)3Ca5(F,Cl,OH)", 
+    "Hábito": "Hexagonal bipiramidal", 
+    "Exofiación": "Imperfecta", 
+    "Fractura": "Concoidea irregular", 
+    "Tenacidad": "Quebradizo", 
+    "Peso Especíco": "3,15 - 3,2", 
+    "Color": "Tonalidades versodo a pardo, también azul violeta a incoloro", 
+    "Brillo": "Vítreo a subresinoso", 
+    "Diafanidad": "translúcido a transparente", 
+    "Dureza": "5", 
+    "Raya":"Blanca" 
+}, 
+{ 
+    "Mineral": "Turquesa",  
+    "Fórmula Química": "(PO4)4(OH)8CuAl65H2O", 
+    "Hábito": "Triclínico, pinacoidal, incrustaciones", 
+    "Exofiación": "Buena", 
+    "Fractura": "Concoidea", 
+    "Tenacidad": "Frégil", 
+    "Peso Especíco": "2,6 - 2,8", 
+    "Color": "Azul, verde azulado y verde", 
+    "Brillo": "De cera", 
+    "Diafanidad": "Transparente", 
+    "Dureza": "1,5 - 2,5", 
+    "Raya":"Mas pálida que el color" 
+}
+]

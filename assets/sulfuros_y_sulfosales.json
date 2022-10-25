@@ -1,0 +1,233 @@
+[ 
+
+    { 
+        "Mineral": "Argentita",  
+        "Fórmula Química": "Ag2S", 
+        "Hábito": "Dentrítico filiforme", 
+        "Exofiación": "Mala", 
+        "Fractura": "Subconcoidal", 
+        "Tenacidad": "Séctil Maleable", 
+        "Peso Especíco": "7,3", 
+        "Color": "Gris a negro", 
+        "Brillo": "Metálico a mate", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "2 - 2,5", 
+        "Raya":"Gris negro" 
+
+
+    }, 
+
+    { 
+        "Mineral": "Calcosina",  
+        "Fórmula Química": "Cu2S", 
+        "Hábito": "Prismas compacto y masivo", 
+        "Exofiación": "Mala", 
+        "Fractura": "Concoidal", 
+        "Tenacidad": "S+ectil", 
+        "Peso Especíco": "5,5 - 5,8", 
+        "Color": "Gris a negro", 
+        "Brillo": "Metálico a mate-azul", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "2,5 - 3", 
+        "Raya":"Negra grisásea" 
+
+
+    }, 
+
+    { 
+        "Mineral": "Covelina",  
+        "Fórmula Química": "CuS", 
+        "Hábito": "Masivo o diseminado en placa hexagonal", 
+        "Exofiación": "Perfecta", 
+        "Fractura": "Irregular", 
+        "Tenacidad": "Flexible", 
+        "Peso Especíco": "4,4 - 4,76", 
+        "Color": "Azul indigo u oscuro", 
+        "Brillo": "Metálico", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "1,5 - 2", 
+        "Raya":"Gris a negro" 
+    }, 
+
+    { 
+        "Mineral": "Bornita",  
+        "Fórmula Química": "Cu5FeS4", 
+        "Hábito": "Cúbico masivo", 
+        "Exofiación": "Indicios, maclas", 
+        "Fractura": "Concoidal a irregular", 
+        "Tenacidad": "Frágil", 
+        "Peso Especíco": "5.06 - 5.08", 
+        "Color": "Bronce, pardo a rojo, pátina púrpura y azul", 
+        "Brillo": "Metálico", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "3", 
+        "Raya":"Gris a negro" 
+
+
+    }, 
+
+    { 
+        "Mineral": "Esfalerita o Blenda",  
+        "Fórmula Química": "ZnS", 
+        "Hábito": "Cúbico compacta masas exfoliables", 
+        "Exofiación": "Perfecta", 
+        "Fractura": "Concoidal", 
+        "Tenacidad": "Frágil", 
+        "Peso Especíco": "4,096", 
+        "Color": "Pardo a amarillento", 
+        "Brillo": "Resinoso", 
+        "Diafanidad": "Traslúcido", 
+        "Dureza": "3,5 -4", 
+        "Raya":"Pardo Amarillento" 
+
+    }, 
+
+    { 
+        "Mineral": "Calcopirita",  
+        "Fórmula Química": "CuFeS2", 
+        "Hábito": "Tetraédrico en masas", 
+        "Exofiación": "A veces muy clara", 
+        "Fractura": "Irregular", 
+        "Tenacidad": "Frágil", 
+        "Peso Especíco": "4 - 4.3", 
+        "Color": "Amarillo latón", 
+        "Brillo": "Metálico", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "3,5 - 4", 
+        "Raya":"Negra Verdosa" 
+    } , 
+
+    { 
+        "Mineral": "Galena",  
+        "Fórmula Química": "PbS", 
+        "Hábito": "Cúbico en masas", 
+        "Exofiación": "Perfecta", 
+        "Fractura": "Subconcoidal", 
+        "Tenacidad": "Frágil", 
+        "Peso Especíco": "7,58", 
+        "Color": "Gris plomo", 
+        "Brillo": "Metálico", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "2,5", 
+        "Raya":"Gris oscuro" 
+    }, 
+    { 
+        "Mineral": "Cinabrio",  
+        "Fórmula Química": "HgS", 
+        "Hábito": "En masa, romboédrico", 
+        "Exofiación": "Primática Perfecta", 
+        "Fractura": "Irregular a subconcoidal" , 
+        "Tenacidad": "Frágil", 
+        "Peso Especíco": "8,09", 
+        "Color": "Rojo bermellón", 
+        "Brillo": "Adiamantino a mate", 
+        "Diafanidad": "Traslúcido", 
+        "Dureza": "2,5", 
+        "Raya":"Escarlata" 
+    },  
+
+    { 
+        "Mineral": "Antimonita o estibina ",  
+        "Fórmula Química": "Sb2S3", 
+        "Hábito": "Cristales prismáticos", 
+        "Exofiación": "Perfecta", 
+        "Fractura": "Concoidal", 
+        "Tenacidad": "Flexible", 
+        "Peso Especíco": "4,6", 
+        "Color": "Gris Azulado", 
+        "Brillo": "Metálico", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "2", 
+        "Raya":"Gris" 
+    }, 
+
+    { 
+        "Mineral": "Pirita",  
+        "Fórmula Química": "FeS2", 
+        "Hábito": "Cristales Cúbicos", 
+        "Exofiación": "Buena", 
+        "Fractura": "Concoidal a irregular", 
+        "Tenacidad": "Frágil", 
+        "Peso Especíco": "5,02", 
+        "Color": "Amarillo latón", 
+        "Brillo": "Metálico", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "6 - 6.5", 
+        "Raya":"Negra Verdosa" 
+    }, 
+
+    { 
+        "Mineral": "Molibdenita",  
+        "Fórmula Química": "MoS2", 
+        "Hábito": "Cristales hexagonales, en masas", 
+        "Exofiación": "Perfecta", 
+        "Fractura": "Concoidal", 
+        "Tenacidad": "Flexible, séctil", 
+        "Peso Especíco": "4,62 - 4,73", 
+        "Color": "Gris con reflejos azul", 
+        "Brillo": "Metálico", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "1 - 1,5", 
+        "Raya":"Negra" 
+    }, 
+
+    { 
+        "Mineral": "Tennantita",  
+        "Fórmula Química": "Cu12As4S13", 
+        "Hábito": "En masa", 
+        "Exofiación": "No presenta", 
+        "Fractura": "Sub concoidal irregular", 
+        "Tenacidad": "Frágil", 
+        "Peso Especíco": "4,6 - 5,1", 
+        "Color": "Gris a negro", 
+        "Brillo": "Metálico", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "3 -4,5", 
+        "Raya":"Negra" 
+    },  
+
+    { 
+        "Mineral": "Enargita",  
+        "Fórmula Química": "Cu3AsS4", 
+        "Hábito": "En masa", 
+        "Exofiación": "Perfecta", 
+        "Fractura": "Irregular", 
+        "Tenacidad": "Frágil", 
+        "Peso Especíco": "4,45", 
+        "Color": "Negro", 
+        "Brillo": "Metálico a mate", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "3", 
+        "Raya":"Negra" 
+
+    }, 
+    { 
+        "Mineral": "Arsenopirita",  
+        "Fórmula Química": "FeAsS", 
+        "Hábito": "Granular o compacto", 
+        "Exofiación": "Clara (110)", 
+        "Fractura": "Irregular", 
+        "Tenacidad": "Frágil", 
+        "Peso Especíco": "6,07", 
+        "Color": "Blanco a gris", 
+        "Brillo": "Metálico", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "4", 
+        "Raya":"Negra" 
+    }, 
+
+    { 
+        "Mineral": "Pirrotina",  
+        "Fórmula Química": "SFe-X", 
+        "Hábito": "En masa", 
+        "Exofiación": "Clara (110)", 
+        "Fractura": "Irregualar", 
+        "Tenacidad": "Frágil", 
+        "Peso Especíco": "4,58 - 4,65", 
+        "Color": "Bronce pardo", 
+        "Brillo": "Metálico", 
+        "Diafanidad": "Opaco", 
+        "Dureza": "4", 
+        "Raya":"Negra" 
+    }
+]
